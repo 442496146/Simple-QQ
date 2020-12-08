@@ -1,5 +1,5 @@
-# Simple Wechat
-# 简单仿微信
+# Simple QQ
+# 简单仿QQ
 
 基础工具  maven3+ 、jdk8、tomcat8 
 开发工具  eclipse、Hbuilder 
